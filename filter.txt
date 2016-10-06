@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Checksum: iIq+ZRXtFDBAD8qBPtblpw
+! Title: Paywall Filters BR
+! Author: Edgard Castro
+! Version: 201610061800
+! Expires: 1 days
+! License: https://creativecommons.org/publicdomain/zero/1.0/
+! Homepage: https://github.com/edgard/paywall-filters-br/
+! Support: https://github.com/edgard/paywall-filters-br/issues
+||*.folha.com.br/paywall/*
+||*.folha.uol.com.br/folha/furniture/paywall/*
+||api.clicrbs.com.br/paywall-api/*
+||estadao.com.br/paywall/*
+||gazetadopovo.com.br/assinaturas/public/js/connect_api.js*
+||oglobo.globo.com/_js/payWall*
+||oglobo.globo.com/*controla-acesso*
+||oglobo.globo.com/plataforma/js/*/minificados/paywall*
+||oglobo.globo.com/servicos/inc/payWall.Conteudo.js
+||paywall.estadao.com.br^
+||paywall.folha.com.br^
