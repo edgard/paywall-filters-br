@@ -1,20 +1,27 @@
 [Adblock Plus 2.0]
-! Checksum: iIq+ZRXtFDBAD8qBPtblpw
+! Checksum: 4tLvJX/iCMCICKl/0/tvNA
 ! Title: Paywall Filters BR
 ! Author: Edgard Castro
-! Version: 201610061800
+! Version: 201702231530
 ! Expires: 1 days
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Homepage: https://github.com/edgard/paywall-filters-br/
 ! Support: https://github.com/edgard/paywall-filters-br/issues
 ||*.folha.com.br/paywall/*
 ||*.folha.uol.com.br/folha/furniture/paywall/*
+||paywall.folha.com.br^
 ||api.clicrbs.com.br/paywall-api/*
+||zh.clicrbs.com.br/it/js/paid-content-config.js*
+||dc.clicrbs.com.br/jornal-2015/jsp/paywall.jspx*
+||www.rbsonline.com.br/cdn/scripts/paywall.min.js*
+||jornaldesantacatarina.clicrbs.com.br/jornal/jsp/paywall*
 ||estadao.com.br/paywall/*
+||paywall.estadao.com.br^
 ||gazetadopovo.com.br/assinaturas/public/js/connect_api.js*
+||gazetadopovo.com.br/conta/going/api/paywall/*
 ||oglobo.globo.com/_js/payWall*
 ||oglobo.globo.com/*controla-acesso*
 ||oglobo.globo.com/plataforma/js/*/minificados/paywall*
 ||oglobo.globo.com/servicos/inc/payWall.Conteudo.js
-||paywall.estadao.com.br^
-||paywall.folha.com.br^
+||correio.rac.com.br/includes/js/novo_cp/fivewall.js*
+||assets.imirante.com/2.0/oestadoma/js/jquery.login.min.js
