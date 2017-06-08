@@ -1,27 +1,56 @@
 [Adblock Plus 2.0]
-! Checksum: 4tLvJX/iCMCICKl/0/tvNA
+! Checksum: flw08cAR5rLhPqAu/51jbw
 ! Title: Paywall Filters BR
 ! Author: Edgard Castro
-! Version: 201702231530
+! Version: 201706281810
 ! Expires: 1 days
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Homepage: https://github.com/edgard/paywall-filters-br/
 ! Support: https://github.com/edgard/paywall-filters-br/issues
+
+! folha de s.paulo
 ||*.folha.com.br/paywall/*
 ||*.folha.uol.com.br/folha/furniture/paywall/*
 ||paywall.folha.com.br^
+
+! clickrbs
 ||api.clicrbs.com.br/paywall-api/*
+
+! zero hora
 ||zh.clicrbs.com.br/it/js/paid-content-config.js*
-||dc.clicrbs.com.br/jornal-2015/jsp/paywall.jspx*
 ||www.rbsonline.com.br/cdn/scripts/paywall.min.js*
+
+! diario catarinense
+||dc.clicrbs.com.br/jornal-2015/jsp/paywall.jspx*
+
+! diário de santa maria
+||www.rbsonline.com.br/cdn/scripts/SLoader.js*
+
+! jornal de santa catarina
 ||jornaldesantacatarina.clicrbs.com.br/jornal/jsp/paywall*
+
+! estadão
 ||estadao.com.br/paywall/*
 ||paywall.estadao.com.br^
+
+! gazeta do povo
 ||gazetadopovo.com.br/assinaturas/public/js/connect_api.js*
 ||gazetadopovo.com.br/conta/going/api/paywall/*
+
+! o globo
 ||oglobo.globo.com/_js/payWall*
 ||oglobo.globo.com/*controla-acesso*
 ||oglobo.globo.com/plataforma/js/*/minificados/paywall*
 ||oglobo.globo.com/servicos/inc/payWall.Conteudo.js
+||cdn.tinypass.com/api/tinypass.min.js
+
+! correio popular
 ||correio.rac.com.br/includes/js/novo_cp/fivewall.js*
+
+! estado do maranhão
 ||assets.imirante.com/2.0/oestadoma/js/jquery.login.min.js
+||dashboard.tinypass.com/xbuilder/experience/load*
+
+! jornal de novo hamburgo
+||www.jornalnh.com.br/includes/js/paywall.js*
+||blockv2.fivewall.com.br/*
