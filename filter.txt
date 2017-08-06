@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: flw08cAR5rLhPqAu/51jbw
+! Checksum: +i0vb7ESo9T/qvztncQ7yQ
 ! Title: Paywall Filters BR
 ! Author: Edgard Castro
-! Version: 201706281810
+! Version: 201708061530
 ! Expires: 1 days
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Homepage: https://github.com/edgard/paywall-filters-br/
@@ -36,6 +36,7 @@
 ! gazeta do povo
 ||gazetadopovo.com.br/assinaturas/public/js/connect_api.js*
 ||gazetadopovo.com.br/conta/going/api/paywall/*
+||gazetadopovo.com.br/loader/v1/logan_full_toolbar.js*
 
 ! o globo
 ||oglobo.globo.com/_js/payWall*
